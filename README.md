@@ -30,10 +30,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Projects
 
 #### Sudoku
-A Java command line Sudoku solver wrote during the winter break in my sophomore year. After finishing CMSC132, I decided to practice a little bit before dive into C programming. You can find my code [here](https://github.com/SiddarGu/Sudoku/blob/master/SudokuSystem.java).
+A Java command line Sudoku solver wrote during the winter break in my sophomore year. You can find my code [here](https://github.com/SiddarGu/Sudoku/blob/master/SudokuSystem.java).
 
 #### SnakeGame
-Still working on it.
+A simple snake game wrote during the winter break in my sophomore year. You can find my code [here](https://github.com/SiddarGu/SnakeGame).
 
 ### Courses
 
