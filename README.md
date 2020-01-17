@@ -3,36 +3,13 @@
 I use this blog to post my personal projects since my freshman year.
 
 In addition to projects, I also put a list of courses I've passed in University of Maryland.
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Projects
 
 #### Sudoku
 A Java command line Sudoku solver wrote during the winter break in my sophomore year. You can find my code [here](https://github.com/SiddarGu/Sudoku/blob/master/SudokuSystem.java).
 
-#### SnakeGame
+#### Snake Game
 A simple snake game wrote during the winter break in my sophomore year. You can find my code [here](https://github.com/SiddarGu/SnakeGame).
 
 ### Courses
