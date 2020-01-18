@@ -12,6 +12,9 @@ A Java command line Sudoku solver wrote during the winter break in my sophomore 
 #### Snake Game
 A simple snake game wrote during the winter break in my sophomore year. You can find my code [here](https://github.com/SiddarGu/SnakeGame).
 
+#### Tetris
+in development
+
 ### Courses
 
 #### CMSC131 Object-Oriented Programming I
