@@ -25,29 +25,20 @@ Introduction to programming and computer science. Emphasizes understanding and i
 Introduction to use of computers to solve problems using software engineering principles. Design, build, test, and debug medium -size software systems and learn to use relevant tools. Use object-oriented methods to create effective and efficient problem solutions. Use and implement application programming interfaces (APIs). Programming done in Java.
 [Course Info](https://www.cs.umd.edu/class/fall2019/cmsc132/)
 
-### LeetCode Problems
-#### 2. Add Two Numbers
-  While l1 has digits to process
-    if l2 has no digit to process
-      if l1.digit > 10
-        carrybit = true
-      else if carrybit
-        increment by 1
-      else
-        l1.digit
-    if l2 has digits to process
-      sum = l1.digit + l2.digit + carrybit if available
-      set carrybit accordingly
+#### CMSC216 Introduction to Computer Systems
+Introduction to the interaction between user programs and the operating system/hardware. Major topics include C programming, introductory systems programming, and assembly language. Other concepts covered include UNIX, machine data representation, thread management, optimization, and virtual memory. Programming is done in the Linux Environment.
+[Course Info](http://www.cs.umd.edu/class/spring2020/cmsc216/index.html)
 
-  While l2 has digits
-    if l2.digit > 10
-        carrybit = true
-      else if carrybit
-        increment by 1
-      else
-        l2.digit
-      
-  if carrybit
-    new node of 1
-  
-  return
+#### CMSC250 Discrete Structures
+Fundamental mathematical concepts related to computer science, including finite and infinite sets, relations, functions, and propositional logic. Introduction to other techniques, modeling and solving problems in computer science. Introduction to permutations, combinations, graphs, and trees with selected applications.
+Spring 2020
+
+#### CMSC330 Organization of Programming Languages
+A study of programming languages, including their syntax, semantics, and implementation. Several different models of languages are discussed, including dynamic, scripting (e.g., Ruby, Python) functional (e.g., OCaml, Haskell, Scheme), and memory safe systems programming (e.g., Rust). Explores language features such as formal syntax, scoping and binding of variables, higher-order programming, typing, and type polymorphism. Introduces finite automata, context free grammar, parsing, lambda calculus, and basics of security attacks and software security.
+[Course Info](https://www.cs.umd.edu/class/summer2020/cmsc330/)
+
+#### CMSC320 Introduction to Data Science
+An introduction to the data science pipeline, i.e., the end-to-end process of going from unstructured, messy data to knowledge and actionable insights. Provides a broad overview of several topics including statistical data analysis, basic data mining and machine learning algorithms, large-scale data management, cloud computing, and information visualization.
+
+#### CMSC351 Algorithms
+A systematic study of the complexity of some elementary algorithms related to sorting, graphs and trees, and combinatorics. Algorithms are analyzed using mathematical techniques to solve recurrences and summations.
