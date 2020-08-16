@@ -6,14 +6,11 @@ In addition to projects, I also put a list of courses I've passed in University 
 
 ### Projects
 
-#### Sudoku
-A Java command line Sudoku solver wrote during the winter break in my sophomore year. You can find my code [here](https://github.com/SiddarGu/Sudoku/blob/master/SudokuSystem.java).
+#### [Sudoku](https://github.com/SiddarGu/Sudoku/blob/master/SudokuSystem.java)
+A Java GUI Sudoku solver wrote during the winter break in my sophomore year.
 
-#### Snake Game
-A simple snake game wrote during the winter break in my sophomore year. You can find my code [here](https://github.com/SiddarGu/SnakeGame).
-
-#### Tetris
-in development
+#### [Snake Game](https://github.com/SiddarGu/SnakeGame)
+A simple snake game wrote during the winter break in my sophomore year.
 
 ### Courses
 
