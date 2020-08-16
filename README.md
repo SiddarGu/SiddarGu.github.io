@@ -24,3 +24,30 @@ Introduction to programming and computer science. Emphasizes understanding and i
 #### CMSC132 Object-Oriented Programming II
 Introduction to use of computers to solve problems using software engineering principles. Design, build, test, and debug medium -size software systems and learn to use relevant tools. Use object-oriented methods to create effective and efficient problem solutions. Use and implement application programming interfaces (APIs). Programming done in Java.
 [Course Info](https://www.cs.umd.edu/class/fall2019/cmsc132/)
+
+### LeetCode Problems
+#### 2. Add Two Numbers
+  While l1 has digits to process
+    if l2 has no digit to process
+      if l1.digit > 10
+        carrybit = true
+      else if carrybit
+        increment by 1
+      else
+        l1.digit
+    if l2 has digits to process
+      sum = l1.digit + l2.digit + carrybit if available
+      set carrybit accordingly
+
+  While l2 has digits
+    if l2.digit > 10
+        carrybit = true
+      else if carrybit
+        increment by 1
+      else
+        l2.digit
+      
+  if carrybit
+    new node of 1
+  
+  return
