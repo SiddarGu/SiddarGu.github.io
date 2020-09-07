@@ -1,8 +1,6 @@
-## Welcome to my personal blog!
+## Feng's Github Page
 
-I use this blog to post my personal projects since my freshman year.
-
-In addition to projects, I also put a list of courses I've passed in University of Maryland.
+This is where I post my projects and relevant courseworks.
 
 ### Projects
 
