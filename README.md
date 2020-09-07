@@ -4,7 +4,7 @@ This is where I post my projects and relevant courseworks.
 
 ### Projects
 
-#### [Sudoku](https://github.com/SiddarGu/Sudoku/blob/master/SudokuSystem.java)
+#### [Sudoku](https://github.com/SiddarGu/Sudoku)
 A Java GUI Sudoku solver wrote during the winter break in my sophomore year.
 
 #### [Snake Game](https://github.com/SiddarGu/SnakeGame)
