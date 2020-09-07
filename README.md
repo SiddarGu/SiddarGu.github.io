@@ -28,7 +28,7 @@ Spring 2020
 #### [CMSC330 Organization of Programming Languages](https://www.cs.umd.edu/class/summer2020/cmsc330/)
 A study of programming languages, including their syntax, semantics, and implementation. Several different models of languages are discussed, including dynamic, scripting (e.g., Ruby, Python) functional (e.g., OCaml, Haskell, Scheme), and memory safe systems programming (e.g., Rust). Explores language features such as formal syntax, scoping and binding of variables, higher-order programming, typing, and type polymorphism. Introduces finite automata, context free grammar, parsing, lambda calculus, and basics of security attacks and software security.
 
-#### CMSC320 Introduction to Data Science
+#### [CMSC320 Introduction to Data Science](https://cmsc320.github.io/)
 An introduction to the data science pipeline, i.e., the end-to-end process of going from unstructured, messy data to knowledge and actionable insights. Provides a broad overview of several topics including statistical data analysis, basic data mining and machine learning algorithms, large-scale data management, cloud computing, and information visualization.
 
 #### CMSC351 Algorithms
