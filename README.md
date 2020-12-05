@@ -10,6 +10,9 @@ A Java GUI Sudoku solver wrote during the winter break in my sophomore year.
 #### [Snake Game](https://github.com/SiddarGu/SnakeGame)
 A simple snake game wrote during the winter break in my sophomore year.
 
+#### [Data Analysis of football clubs in the UK](https://github.com/SiddarGu/Performance-of-FCs-in-the-UK)
+Analyzing data of British football clubs. Will be posted at the end of the year. [source](https://github.com/footballcsv/england)
+
 ### Courses
 
 #### [CMSC131 Object-Oriented Programming I](http://www.cs.umd.edu/class/spring2019/cmsc131-02XX/)
