@@ -11,7 +11,7 @@ A Java GUI Sudoku solver wrote during the winter break in my sophomore year.
 A simple snake game wrote during the winter break in my sophomore year.
 
 #### [Data Analysis of football clubs in the UK](https://github.com/SiddarGu/Performance-of-FCs-in-the-UK)
-Analyzing data of British football clubs. Will be posted at the end of the year. [source](https://github.com/footballcsv/england)
+Analyzing data of British football clubs. Will be posted at the end of the year. [Source](https://github.com/footballcsv/england)
 
 ### Courses
 
