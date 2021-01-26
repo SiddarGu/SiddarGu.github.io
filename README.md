@@ -5,13 +5,16 @@ This is where I post my projects and relevant courseworks.
 ### Projects
 
 #### [Sudoku](https://github.com/SiddarGu/Sudoku)
-A Java GUI Sudoku solver wrote during the winter break in my sophomore year.
+A Java FX Sudoku solver, generator, and verifier.
 
 #### [Snake Game](https://github.com/SiddarGu/SnakeGame)
-A simple snake game wrote during the winter break in my sophomore year.
+A simple snake game wrote using Java FX.
 
 #### [Data Analysis of football clubs in the UK](https://github.com/SiddarGu/Performance-of-FCs-in-the-UK)
 Analyzing data of British football clubs. Will be posted at the end of the year. [Source](https://github.com/footballcsv/england)
+
+#### [Satisfactory Material Calculator](https://github.com/SiddarGu/Satisfactory-Material-Calculator)
+A Python Tkinter calculator for the game [Satisfactory](https://www.satisfactorygame.com/) using [Graphviz](https://graphviz.org/)
 
 ### Courses
 
