@@ -11,7 +11,7 @@ A Java FX Sudoku solver, generator, and verifier.
 A simple snake game wrote using Java FX.
 
 #### [Data Analysis of football clubs in the UK](https://github.com/SiddarGu/Performance-of-FCs-in-the-UK)
-Analyzing data of British football clubs. Will be posted at the end of the year. [Source](https://github.com/footballcsv/england)
+Analyzing data of British football clubs using Python. [Source](https://github.com/footballcsv/england)
 
 #### [Satisfactory Material Calculator](https://github.com/SiddarGu/Satisfactory-Material-Calculator)
 A Python Tkinter calculator for the game [Satisfactory](https://www.satisfactorygame.com/) using [Graphviz](https://graphviz.org/)
