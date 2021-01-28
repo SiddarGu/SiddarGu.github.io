@@ -39,3 +39,9 @@ An introduction to the data science pipeline, i.e., the end-to-end process of go
 
 #### CMSC351 Algorithms
 A systematic study of the complexity of some elementary algorithms related to sorting, graphs and trees, and combinatorics. Algorithms are analyzed using mathematical techniques to solve recurrences and summations.
+
+#### [CMSC430 Introduction to Compilers](https://www.cs.umd.edu/class/spring2021/cmsc430/)
+Topics include lexical analysis, parsing, intermediate representations, program analysis, optimization, and code generation.
+
+#### CMSC420 Advanced Data Structures
+Description, properties, and storage allocation functions of data structures including balanced binary trees, B-Trees, hash tables, skiplists, tries, KD-Trees and Quadtrees. Algorithms for manipulating structures. Applications from areas such as String Processing, Computer Graphics, Information Retrieval, Computer Networks, Computer Vision, and Operating Systems.
